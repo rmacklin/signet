@@ -14,7 +14,6 @@
 
 gem 'faraday', '~> 0.8.1'
 require 'faraday'
-#require 'faraday/utils'
 
 require 'stringio'
 require 'addressable/uri'
